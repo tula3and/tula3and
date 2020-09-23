@@ -22,7 +22,7 @@
 ![C:LOUDERs](https://img.shields.io/badge/-C:LOUDERs-blue?logo=IBM&logoColor=white&labelColor=blue)
 - :writing_hand: Run my own `blog` in Github and write `TIL`
 - :cookie: Send `newletters` and write articles about `security` in OCOL
-- :cloud: IBM C:LOUDERs
+- :cloud: `PM` in self-organized study group of `IBM C:LOUDERs`
 
 
 🚩 **Highlights**<br>
