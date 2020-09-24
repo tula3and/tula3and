@@ -16,9 +16,9 @@
 
 🌍 **Working on**<br>
 
-![Blog](https://img.shields.io/badge/-Blog-black?logo=GitHub&logoColor=white&labelColor=black&link=https://tula3and.github.io/)
-![TIL](https://img.shields.io/badge/-TIL-black?logo=GitHub&logoColor=white&labelColor=black&link=https://github.com/tula3and/til)
-![OCOL](https://img.shields.io/badge/-OCOL-black?logo=Medium&logoColor=white&labelColor=black&link=https://medium.com/ocol)
+[![Blog](https://img.shields.io/badge/-Blog-black?logo=GitHub&logoColor=white&labelColor=black)](https://tula3and.github.io/)
+[![TIL](https://img.shields.io/badge/-TIL-black?logo=GitHub&logoColor=white&labelColor=black)](https://github.com/tula3and/til)
+[![OCOL](https://img.shields.io/badge/-OCOL-black?logo=Medium&logoColor=white&labelColor=black)](https://medium.com/ocol)
 ![C:LOUDERs](https://img.shields.io/badge/-C:LOUDERs-blue?logo=IBM&logoColor=white&labelColor=blue)
 - :writing_hand: Run my own `blog` in Github and write `TIL`
 - :cookie: Send `newletters` and write articles about `security` in OCOL
