@@ -11,7 +11,7 @@
 ![Qiskit](https://img.shields.io/badge/-Qiskit-purple)
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&labelColor=black)
 ![Notion](https://img.shields.io/badge/-Notion-black?logo=Notion&logoColor=white&labelColor=black)
-![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white&labelColor=yellow)
+![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=black&labelColor=yellow)
 ![Windows](https://img.shields.io/badge/-Windows-blue?logo=Windows&logoColor=white&labelColor=blue)
 
 :book: **Learning now**<br>
