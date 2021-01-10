@@ -30,8 +30,7 @@
 - :microphone: Upload `my presentations` on SlideShare
 - :cloud: `PM` in self-organized study group of `IBM C:LOUDERs`
 
-<!-- 
 🚩 **Highlights**<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tula3and&theme=white)](https://github.com/anuraghazra/github-readme-stats)
--->
+
