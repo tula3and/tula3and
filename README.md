@@ -1,8 +1,8 @@
 <!-- icons here https://simpleicons.org/ -->
 
-💬 &nbsp; ***If you want to ask me something, [click it](https://github.com/tula3and/tula3and/issues)!***<br>
+💬 &nbsp; ***If you want to ask me something, [contact me](https://www.notion.so/tula3and-f623816660834072bd8bc1a7a17ad515)!***<br>
 
-<h2 align='center'><strong><a href="https://tula3and.github.io/about/" target="_blank">:small_blue_diamond: Dayeong Kang :small_blue_diamond:</a></strong></h2>
+<h2 align='center'><strong><a href="https://www.notion.so/tula3and-f623816660834072bd8bc1a7a17ad515" target="_blank">:small_blue_diamond: Dayeong Kang :small_blue_diamond:</a></strong></h2>
 <p align='center'><i>Student Developer interested in Security and Quantum Computing</i></p><br>
 
 💻 **Programming with**<br>
@@ -16,7 +16,7 @@
 
 :book: **Learning now**<br>
 
-`C` `JavaScript` `C++` `Quantum Computing` `Cryptography`
+`C` `JavaScript` `C++` `Quantum Computing` `Cryptography` `System Exploitation Fundamental`
 
 🌍 **Working on**<br>
 
