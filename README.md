@@ -22,10 +22,8 @@
 
 [![Blog](https://img.shields.io/badge/-Blog-black?logo=GitHub&logoColor=white&labelColor=black)](https://tula3and.github.io/)
 [![TIL](https://img.shields.io/badge/-TIL-black?logo=GitHub&logoColor=white&labelColor=black)](https://github.com/tula3and/til)
-[![OCOL](https://img.shields.io/badge/-OCOL-black?logo=Medium&logoColor=white&labelColor=black)](https://medium.com/ocol)
 [![SlideShare](https://img.shields.io/badge/-SlideShare-blue?logo=slideshare&logoColor=white&labelColor=blue)](https://www.slideshare.net/DayeongKang)
 - :writing_hand: Run my own `blog` in Github and write `TIL`
-- :cookie: Send `newletters` and write articles about `security` in OCOL
 - :microphone: Upload `my presentations` on SlideShare
 
 🚩 **Highlights**<br>
