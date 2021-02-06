@@ -23,8 +23,10 @@
 [![Blog](https://img.shields.io/badge/-Blog-black?logo=GitHub&logoColor=white&labelColor=black)](https://tula3and.github.io/)
 [![TIL](https://img.shields.io/badge/-TIL-black?logo=GitHub&logoColor=white&labelColor=black)](https://github.com/tula3and/til)
 [![SlideShare](https://img.shields.io/badge/-SlideShare-blue?logo=slideshare&logoColor=white&labelColor=blue)](https://www.slideshare.net/DayeongKang)
+[![Behance](https://img.shields.io/badge/-Behance-blue?logo=behance&logoColor=white&labelColor=blue)](https://www.behance.net/tula3and/)
 - :writing_hand: Run my own `blog` in Github and write `TIL`
 - :microphone: Upload `my presentations` on SlideShare
+- :art: Leave `my art works` on Behance
 
 🚩 **Highlights**<br>
 
