@@ -28,7 +28,8 @@
 - :microphone: Upload `my presentations` on SlideShare
 - :art: Leave `my art works` on Behance
 
+<!--
 🚩 **Highlights**<br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tula3and&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
