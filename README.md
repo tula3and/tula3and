@@ -16,7 +16,7 @@
 
 :book: **Learning now**<br>
 
-`C` `JavaScript` `C++` `Quantum Computing` `Cryptography` `System Exploitation Fundamental`
+`C` `JavaScript` `C++` `Quantum Computing` `Cryptography` `Web Hacking`
 
 🌍 **Working on**<br>
 
