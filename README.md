@@ -2,7 +2,7 @@
 
 💬 &nbsp; ***If you want to ask me something, [contact me](https://foam-meter-d48.notion.site/tula3and-f623816660834072bd8bc1a7a17ad515?pvs=4)!***<br>
 
-<h2 align='center'><strong><a href="https://www.notion.so/tula3and-f623816660834072bd8bc1a7a17ad515" target="_blank">:small_blue_diamond: Dayeong Kang :small_blue_diamond:</a></strong></h2>
+<h2 align='center'><strong><a href="https://foam-meter-d48.notion.site/tula3and-f623816660834072bd8bc1a7a17ad515?pvs=4" target="_blank">:small_blue_diamond: Dayeong Kang :small_blue_diamond:</a></strong></h2>
 <p align='center'><i>Student Developer interested in Cloud and Quantum Computing</i></p><br>
 
 💻 **Programming with**<br>
